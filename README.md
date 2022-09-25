@@ -1,27 +1,17 @@
 # test2
 
-## Project setup
+## 安装
 ```
-npm install
+首先下载对应的项目地址：
+https://github.com/nothing213/gateway_vue.git
 ```
 
-### Compiles and hot-reloads for development
+### 下载package.json里面对应的依赖
+
+
+
+### 项目运行
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## hello
 
